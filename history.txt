@@ -1,0 +1,199 @@
+    1  pwd
+    2  date
+    3  ls
+    4  git config 
+    5  git config --global user.name Konstantin
+    6  pwd
+    7  ls
+    8  date
+    9  ls
+   10  pwd
+   11  clear
+   12  ls
+   13  cd /
+   14  ls
+   15  git config
+   16  git config --global username Konstantin
+   17  git config --global user.name "Konstantin"
+   18  git config --global user.email "kostia505@gmail.com"
+   19  git config --global user.name "kostia2231"
+   20  git show user.name
+   21  git log
+   22  git list
+   23  git rev-list
+   24  date
+   25  git config -list
+   26  git config --list --global
+   27  pwd
+   28  cd git_intro
+   29  pwd
+   30  git init
+   31  git add pic
+   32  git adddd C:/Users/kosti/Desktop/git_intro/pic.webp
+   33  pwd
+   34  git add pic.webp
+   35  git commit -m "Added photo"
+   36  git branch -M main
+   37  git remote add origin git@github:kostia2231/git_intro.git
+   38  git push -u origin main
+   39  git remote add origin https://github.com/kostia2231/git_intro.git 
+   40  git push -u origin main
+   41  git remote set-url origin https://github.com/kostia2231/git_intro.git
+   42  push -u origin main
+   43  git push -u origin main
+   44  git init
+   45  git checkout -b gitignore
+   46  pwd
+   47  git add .gitignore
+   48  git add .gitignore
+   49  ls
+   50  pwd
+   51  cd Desktop
+   52  cd git_branch
+   53  git add .gitignore
+   54  ls
+   55  pwd
+   56  ls -l
+   57  ls
+   58  pwd
+   59  rm .gitignore
+   60  ls
+   61  touch .gitignore
+   62  nano .gitignore
+   63  git add .gitignore
+   64  git commit -m "Added .gitignore file"
+   65  git log
+   66  got list
+   67  git --list
+   68  git remote add origin https://github.com/kostia2231/git_branch.git
+   69  git push -u origin gitignore
+   70  ls -la
+   71  nano .gitignore
+   72  git push -u origin gitignore
+   73  [200~curl https://raw.githubusercontent.com/aliaskov/bashscripts/master/.gitignore -o .gitignore
+   74  curl https://raw.githubusercontent.com/aliaskov/bashscripts/master/.gitignore -o .gitignore
+   75  nano .gitignore
+   76  git add .gitignore
+   77  git commit -m "added .gitignore file"
+   78  git remote add origin https://github.com/kostia2231/git_branch.git
+   79  git push -u origin .gitignore
+   80  git push -u origin gitignore
+   81  git fetch origin master
+   82  git merge origin master
+   83  ls
+   84  ls -la
+   85  git log
+   86  nano .gitignore
+   87  git push --force origin .gitignore
+   88  git push -u origin gitignore
+   89  git push --force -u origin gitignore
+   90  pwd
+   91  ls
+   92  ls -la
+   93  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   94  vim
+   95  vim
+   96  clear
+   97  date
+   98  find repo12
+   99  find repo
+  100  ls
+  101  cd XXXXXX
+  102  ls
+  103  cd git_intro
+  104  git log
+  105  git reflog
+  106  git --hardreset
+  107  git reset --hard
+  108  git log
+  109  head
+  110  ssh -i ~/Desktop/id-rsa ec2-user@linux.itcareerhub.de
+  111  ls
+  112  git clone https://github.com/kostia2231/repo_pr8.git
+  113  ls
+  114  git checkout -b feature1
+  115  ls
+  116  git init
+  117  git -m main
+  118  ls
+  119  git checkout -b feature1
+  120  ls
+  121  echo "ЭТО ВЕТКА feature1" > file1.txt
+  122  ls
+  123  echo "Строка текста для file1.txt" >> file1.txt
+  124  ls
+  125  cat file1.txt
+  126  git add file1.txt
+  127  git commit -m "Добавлен файо file1.txt"
+  128  ks
+  129  ls
+  130  git checkout -b feature2
+  131  echo "ЭТО ВЕТКА feature2" > file2.txt
+  132  echo "Строка текста для file2.txt" >> file2.txt
+  133  ls
+  134  git add file2.txt
+  135  git comit 
+  136  git commit -m "Добавлен file2.txt"
+  137  git checkout feature1
+  138  git rebase feature2 
+  139  ls
+  140  git checkout feature2
+  141  echo "Строка текста для file2.txt" >> file2.txt
+  142  cat file2.txt
+  143  git add .
+  144  git add file2.txt
+  145  git commit -m "Изменен file2.txt"
+  146  git checkout feature1
+  147  git merge feature2
+  148  gti push -u origin feature1
+  149  git push -u origin feature1
+  150  pwd
+  151  git push -u origin feature1
+  152  ls
+  153  ls-la
+  154  ls -la
+  155  git push -u origin main
+  156  git remote add origin https://github.com/kostia2231/repo_pr8.git
+  157  git push -u origin feature1
+  158  git checkout feature2
+  159  echo "Новая строка текста для file2.txt" >> file2.txt
+  160  git add file2.txt
+  161  git commit -m "Изменен file2.txt"
+  162  пше сруслщге ауфегку1
+  163  git checkout feature1
+  164  git merge feature2
+  165  vim file2.txt
+  166  git commit 
+  167  git add file2.txt
+  168  git push origin 
+  169  date 
+  170  clear
+  171  ls-la
+  172  ls -la
+  173  cd XX
+  174  cd XXX
+  175  ls
+  176  clear
+  177  date 
+  178  npm install -g sass
+  179  npm fund
+  180  choco install sass
+  181  ls
+  182  pwd
+  183  git clone [200~https://github.com/kostia2231/repo09.git
+  184  git clone https://github.com/kostia2231/repo09.git
+  185  cd repo09
+  186  ls
+  187  pwd
+  188  git chackout -b feature
+  189  git checkout -b feature 
+  190  vim README.md 
+  191  vim .gitignore
+  192  git add .
+  193  git commit -m "Add changes to README.md and .gitignore"
+  194  git push origin feature
+  195  git commit --amend -m "Add changes to README.md and .gitignore ammend"
+  196  git push --force origin feature 
+  197  git checkout main
+  198  git merge feature 
+  199  history > history.txt
